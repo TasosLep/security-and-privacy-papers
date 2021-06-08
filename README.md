@@ -32,6 +32,8 @@ This list was inspired by [100 NLP Papers](https://github.com/mhagiwara/100-nlp-
 #### Spying with Wifi
 - Demetriou, Soteris, et al. "HanGuard: SDN-driven protection of smart home WiFi devices from malicious mobile apps." _Proceedings of the 10th ACM Conference on Security and Privacy in Wireless and Mobile Networks_. 2017.
 - Adib, Fadel, and Dina Katabi. "See through walls with WiFi!." _Proceedings of the ACM SIGCOMM 2013 Conference on SIGCOMM_. 2013.
+- Zhu, Yanzi, et al. (2020). "Et Tu Alexa? When Commodity WiFi Devices Turn into Adversarial Motion Sensors." _NDSS_. 2020. 
+- Birnbach, Simon, et al. "Peeves: Physical Event Verification in Smart Homes." 1455-1467. _Proceedings of the 20129 ACM SIGSAC conference on computer and communications security_.  2019. 
 
 #### Access control
 - He, Weijia, et al. "Rethinking access control and authentication for the home internet of things (iot)." _27th {USENIX} Security Symposium ({USENIX} Security 18)_. 2018.
@@ -40,6 +42,7 @@ This list was inspired by [100 NLP Papers](https://github.com/mhagiwara/100-nlp-
  #### Skills squatting 
  - Zhang, Nan, et al. "Dangerous Skills: Understanding and Mitigating Security Risks of Voice-Controlled Third-Party Functions on Virtual Personal Assistant Systems." IEEE Symposium on Security and Privacy 2019. 
 - Kumar, Deepak, et al. "Skill squatting attacks on amazon alexa." _27th {USENIX} Security Symposium ({USENIX} Security 18)_. 2018.
+- Lentzsch, Christopher, et al. "Hey Alexa, is this Skill Safe?: Taking a Closer Look at the Alexa Skill Ecosystem."  _NDSS_. 2021. 
 
 ### Collaborative Learning
 
@@ -68,7 +71,7 @@ This list was inspired by [100 NLP Papers](https://github.com/mhagiwara/100-nlp-
 
 #### Connected and Autonomous Vehicles
 - Sun, Jiachen, et al. "Towards robust lidar-based perception in autonomous driving: General black-box adversarial sensor attack and countermeasures." _29th {USENIX} Security Symposium ({USENIX} Security 20)_. 2020.
--  Cao, Yulong, et al. "Adversarial sensor attack on lidar-based perception in autonomous driving." _Proceedings of the 2019 ACM SIGSAC conference on computer and communications security_. 2019.
+- Cao, Yulong, et al. "Adversarial sensor attack on lidar-based perception in autonomous driving." _Proceedings of the 2019 ACM SIGSAC conference on computer and communications security_. 2019.
 - Eykholt, Kevin, et al. "Robust physical-world attacks on deep learning visual classification." _Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition_. 2018.
 
 ### ASR 
