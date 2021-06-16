@@ -30,7 +30,9 @@ This list was inspired by [100 NLP Papers](https://github.com/mhagiwara/100-nlp-
 ### Smart Homes and IoT
 
 #### Spying with Wifi
+- Zhu, Yanzi, et al. "Et Tu Alexa? When Commodity WiFi Devices Turn into Adversarial Motion Sensors". _NDSS_. 2020.
 - Demetriou, Soteris, et al. "HanGuard: SDN-driven protection of smart home WiFi devices from malicious mobile apps." _Proceedings of the 10th ACM Conference on Security and Privacy in Wireless and Mobile Networks_. 2017.
+- Vattapparamban, Edwin, et al. "Indoor occupancy tracking in smart buildings using passive sniffing of probe requests". _2016 IEEE ICC Workshop_. 2016.
 - Adib, Fadel, and Dina Katabi. "See through walls with WiFi!." _Proceedings of the ACM SIGCOMM 2013 Conference on SIGCOMM_. 2013.
 
 #### Access control
@@ -38,6 +40,7 @@ This list was inspired by [100 NLP Papers](https://github.com/mhagiwara/100-nlp-
 - Fernandes, Earlence, Jaeyeon Jung, and Atul Prakash. "Security analysis of emerging smart home applications." _2016 IEEE symposium on security and privacy (SP)_. IEEE, 2016.
 
  #### Skills squatting 
+ - Lentzsch, Christopher, et al. "Hey Alexa, is this Skill Safe?: Taking a Closer Look at the Alexa Skill Ecosystem." _NDSS_. 2021. 
  - Zhang, Nan, et al. "Dangerous Skills: Understanding and Mitigating Security Risks of Voice-Controlled Third-Party Functions on Virtual Personal Assistant Systems." IEEE Symposium on Security and Privacy 2019. 
 - Kumar, Deepak, et al. "Skill squatting attacks on amazon alexa." _27th {USENIX} Security Symposium ({USENIX} Security 18)_. 2018.
 
